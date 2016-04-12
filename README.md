@@ -1,4 +1,12 @@
 
+# Ideas to try
+
+* Look at
+ * Casualties
+ * Vehicles by Make and Model
+ * Blood Alcohol (note no locations, simplified dates)
+* Merge the accident id (see Accidents and Vehicles) to merge more data sources together
+* Can we draw a linear trend out of something?
 
 # Data sources
 
